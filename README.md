@@ -1,4 +1,4 @@
-# Logica-de-Programa-o-portugol
+# Logica-de-Programa-no-portugol
 Atividaes de portugol feitas em sala de aula no Senai
 
 23/10/2024 - Atividades: Calculadora simples com escolha de operação
