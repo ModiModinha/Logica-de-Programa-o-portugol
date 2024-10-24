@@ -20,7 +20,11 @@ Soma pares de 1 a 100: Neste programa ele mostra a soma de todos os numeros pare
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-24/10/2024
+24/10/2024 - Atividades - Calcular fatorial, Jogo de adivinhação
+
+Fatorial: O programa pede um numero pro usuario e em seguida calcula o fatorial do numero escolhido
+
+Adivinha: O programa aleatoriza um numero e em seguida pede pro usuario tentar adivinhar assim como um jogo de aposta
 
 
 
