@@ -17,6 +17,8 @@ Soma pares e impares digitados: Este programa calcula quantas vezes o usuario di
 
 Soma pares de 1 a 100: Neste programa ele mostra a soma de todos os numeros pares de 1 até 100
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
