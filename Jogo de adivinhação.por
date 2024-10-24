@@ -4,7 +4,7 @@ programa {
   funcao inicio() {
     inteiro sorteado, sorteio
 
-    sorteado = u.sorteia(1, 10)
+    sorteado = u.sorteia(1, 20)
 
     escreva("Adivinhe o numero sorteado:","\n")
     leia(sorteio)
@@ -12,17 +12,37 @@ programa {
 
     se (sorteio == sorteado){
 
-      escreva("Parabens voce adivinhou o numero sorteado","\n")
+      escreva("Parabens voce adivinhou o numero sorteado!!","\n")
 
     }
 
-    senao{
-      escreva("Sinto muito voce errou o numero mais sorte na proxima tentativa","\n")
+    enquanto (sorteio != sorteado){
+
+      se (sorteio < sorteado){
+      escreva("O numero que voce escolheu é menor que o numero sorteado","\n")
+      escreva("Tente novamente")
+      leia(sorteio)
+      limpa()
+      }
+
+      senao{
+      escreva("O numero que voce escolheu é maior que o numero sorteado","\n")
+      escreva("Tente novamente")
+      leia(sorteio)
+      limpa()
+      }
+
+      
+      }
+
+        escreva("Parabens voce adivinhou o numero sorteado!!")
+
+
+    }
       
     }
 
 
 
 
-  }
-}
+  
